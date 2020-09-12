@@ -1,0 +1,17 @@
+Data Pre-Work - 8 Modules 
+
+Module 1: I wasn´t able to upload the folder to Google Drive and then put it into BootCamp Spot.
+
+Module 2: Applications installed: 
+
+Google Chrome - Yes
+Slack - Yes 
+Microsoft Excel - Yes
+Git and GitHub - Yes 
+Git Bash (Windows only) 
+Terminal (Mac only; preinstalled) 
+Homebrew (Mac only)
+SSH Keys
+Python and Anaconda 
+Mongo DB
+VS Code
